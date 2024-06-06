@@ -1,4 +1,10 @@
-<iframe src="https://giphy.com/embed/HEURGne9Vj856oivkD" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-HEURGne9Vj856oivkD"></a></p>
+
+<div>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTgxN3FhMmhqa3R6ZThqOG9tdHU5a2V3dnFnbXdmcjUyNXgyNm56cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HEURGne9Vj856oivkD/giphy.gif>
+
+
+</div>
+
 
 Hola!! Soy Daniela desarrolladora junior 
 
