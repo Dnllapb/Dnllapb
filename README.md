@@ -1,6 +1,4 @@
-    <table style="width: 100%; height: 100vh; border: 0;">
-        <tr>
-            <td style="text-align: center; vertical-align: middle;">
+
                 <div>
                     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTgxN3FhMmhqa3R6ZThqOG9tdHU5a2V3dnFnbXdmcjUyNXgyNm56cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HEURGne9Vj856oivkD/giphy.gif"
                         width="200">
@@ -11,9 +9,7 @@
                         detalle me permiten fusionar y ejecutar los objetivos del proyecto de manera efectiva y precisa.
                     </h6>
                 </div>
-            </td>
-        </tr>
-    </table>
+     
 
 
 
